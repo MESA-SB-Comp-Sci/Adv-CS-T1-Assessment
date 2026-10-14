@@ -23,7 +23,9 @@ There are 3 files besides this one! Go to each file and solve each question give
 Remember to **_code a little, test a little_**; Use the following command to run your files: 
 
 ```node
-node index.js
+node part-1-foundations.js
+node part-2-problem-solving.js
+node part-3-debug.js
 node playground.js
 ```
 
